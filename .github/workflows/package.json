@@ -1,0 +1,10 @@
+
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Basic GitHub Actions CI project",
+  "scripts": {
+    "test": "node -e \"console.log('Tests passed!')\"",
+    "build": "node -e \"console.log('Build completed successfully!')\""
+  }
+}
